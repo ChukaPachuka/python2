@@ -1,5 +1,13 @@
 # python2
 ## Итоговый проект по модулю Python для анализа данных
+Исходные таблицы:  
+- orders.xlsx
+- products.xlsx
+
+Сформированные таблицы:  
+- category_sales.xlsx
+- category_sales_full.xlsx (полные данные ABC-анализа)
+- subcategory_sales.xlsx
 
 ### 01 - код в файле HelloWorld2.py
 ![image](https://github.com/user-attachments/assets/8c7301b6-927d-4601-8330-cb2c4c43c808)
